@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "QuackQuack",
+        "HERO_HEADING_TEXT": "Dive into the World of Rubber Ducks",
+        "HERO_SUBHEADING_TEXT": "Discover the charm, collect the squeaks, and float through a sea of adorable bath-time companions",
+        "FOOTER_TEXT": "\u00a9 2023 QuackQuack. All rights reserved. Making bath time fun, one duck at a time."
+    }
+}
