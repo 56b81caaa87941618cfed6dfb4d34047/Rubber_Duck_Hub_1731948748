@@ -24,5 +24,15 @@
         "source": "base_assistant",
         "content": "I'm unable to directly change your project's name. However, you can easily do it by going to your project settings in the MakeInfinite studio and modifying the name there. Let me know if there's anything else I can help you with!",
         "metadata": {}
+    },
+    {
+        "id": "ce9ff241-b3d8-42c8-8f04-f9650ba82449",
+        "timestamp": "2024-12-03T20:19:51.976087Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Can you change the title of the header to something more catchy?",
+        "metadata": {
+            "component_id": "Header1731948751"
+        }
     }
 ]
